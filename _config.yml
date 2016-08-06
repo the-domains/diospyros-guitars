@@ -1,14 +1,22 @@
-layout_spectrum: 0.6225178905297071
-typography_spectrum: 0.0686588017269969
+typography_spectrum: 0.657775605795905
 color:
-  brandStrength: 0.9180050154682249
-  lightness: 0.5456747727002949
-  saturation: 0.6746376019436866
-  rhythmicContrast: 0.852359662996605
+  brandStrength: 0.6137048141099513
+  lightness: 0.07003543456085026
+  saturation: 0.6760128114838153
+  rhythmicContrast: 0.48194468719884753
   brandColors:
-    - '#FFFFFF'
-    - '#CCCCCC'
-    - '#999999'
-    - '#4D4D4D'
-    - '#333333'
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+layout_spectrum: 0.6896179004106671
+author:
+  name: dominic
+  email: diospyrosguitars@gmail.com
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/39e05b0d-a412-4e37-905d-0869d6cae267.jpg
 name: Diospyros Guitars
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/95d16737-8ab9-4dc5-9f07-2c7fdfa8be7e.png
+title: Custom Electric Guitars | Handmade in Sin
