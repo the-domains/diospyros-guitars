@@ -1,16 +1,16 @@
-typography_spectrum: 0.657775605795905
+typography_spectrum: 0.013195821549743414
 color:
-  brandStrength: 0.6137048141099513
-  lightness: 0.07003543456085026
-  saturation: 0.6760128114838153
-  rhythmicContrast: 0.48194468719884753
+  brandStrength: 0.3400903798174113
+  lightness: 0.9723538926336914
+  saturation: 0.5834281742572784
+  rhythmicContrast: 0.3265034658834338
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
-layout_spectrum: 0.6896179004106671
+    - '#FFFFFF'
+    - '#CCCCCC'
+    - '#999999'
+    - '#4D4D4D'
+    - '#333333'
+layout_spectrum: 0.6554947006516159
 author:
   name: dominic
   email: diospyrosguitars@gmail.com
