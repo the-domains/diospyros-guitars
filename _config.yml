@@ -1,14 +1,14 @@
-layout_spectrum: 0.6896179004106671
-typography_spectrum: 0.657775605795905
+layout_spectrum: 0.6225178905297071
+typography_spectrum: 0.0686588017269969
 color:
-  brandStrength: 0.6137048141099513
-  lightness: 0.07003543456085026
-  saturation: 0.6760128114838153
-  rhythmicContrast: 0.48194468719884753
+  brandStrength: 0.9180050154682249
+  lightness: 0.5456747727002949
+  saturation: 0.6746376019436866
+  rhythmicContrast: 0.852359662996605
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
+    - '#FFFFFF'
+    - '#CCCCCC'
+    - '#999999'
+    - '#4D4D4D'
+    - '#333333'
 name: Diospyros Guitars
